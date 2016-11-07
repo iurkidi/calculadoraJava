@@ -26,11 +26,11 @@ public class Calculadora_ITZIAR {
         System.out.println("** 4.-Dividir          **");
         System.out.println("** 5.-Salir            **");
         System.out.println("*************************");
-        //do{
+        do{
             System.out.println("introduce la opción deseada(1-5):");
             op=teclado.nextInt();
             
-        //}while(op<1 ||op>5);
+        }while(op<1 ||op>5);
         
         switch(op){
             case 1: 

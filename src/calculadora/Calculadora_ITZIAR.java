@@ -15,8 +15,7 @@ public class Calculadora_ITZIAR {
      */
     public static void main(String[] args) {
        
-        int op;
-        int x,y;
+        int op,x,y;
         
         do{
         System.out.println("*************************");    
